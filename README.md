@@ -19,7 +19,12 @@ down sizing (10000x6000 -> 1000x600)
 ~~~
 
 - unzip material images (**minecraft textures**)
+  - https://github.com/Mojang/bedrock-samples/releases
+  - https://learn.microsoft.com/ja-jp/minecraft/creator/documents/resourcepack
 - input target image(**minecraft image**)  
-  
+  - https://www.minecraft.net/
+
+- **generate mosaic image**
+
 - copy generated image file to google drive
 - download generated image file to local PC 
