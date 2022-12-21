@@ -9,7 +9,9 @@ create mosaic art image using gh_mosaic_art.ipynb (google colaboratory)
 **`Generated Image`**  
 
 ![Test Image](https://github.com/achiral/mosaic_art/blob/main/out.png?raw=true)  
-down sizing (10000x6000 -> 1000x600)
+MULTIPLY = 10  
+=> downsized by Affinity Photo 2 (10000x6000 px -> 1000x600 px)  
+  - https://affinity.serif.com/
 ***
 
 # Run Colab Notebook
