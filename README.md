@@ -1,5 +1,6 @@
 # mosaic_art  
-create mosaic art image using gh_mosaic_art.ipynb (google colaboratory)
+generate mosaic art image,composed of **minecraft textures**, using `gh_mosaic_art.ipynb` (google colaboratory)
+
 
 ***
 **`Target Image`**  
