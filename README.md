@@ -15,7 +15,7 @@ MULTIPLY = 10
 ***
 
 # Run Colab Notebook
-- git clone  
+- git clone in google colaboratory  
 ~~~
 !git clone https://github.com/achiral/mosaic_art.git
 ~~~
