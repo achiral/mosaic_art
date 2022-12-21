@@ -1,15 +1,14 @@
 # mosaic_art  
 generate mosaic art image,composed of **minecraft textures**, using `gh_mosaic_art.ipynb` (google colaboratory)
 
-
 ***
 **`Target Image`**  
 
-![Test Image](https://github.com/achiral/mosaic_art/blob/main/target.jpg?raw=true)  
+![Target Image](https://github.com/achiral/mosaic_art/blob/main/target.jpg?raw=true)  
 ***
 **`Generated Image`**  
 
-![Test Image](https://github.com/achiral/mosaic_art/blob/main/out.png?raw=true)  
+![Generated Image](https://github.com/achiral/mosaic_art/blob/main/out.png?raw=true)  
 MULTIPLY = 10  
 => downsized by Affinity Photo 2 (10000x6000 px -> 1000x600 px)  
   - https://affinity.serif.com/
